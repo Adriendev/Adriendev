@@ -23,7 +23,8 @@
 - and also:
 <a href="https://www.linkedin.com/in/adrien-deveaux/">                 
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
-</a>                                                                                                                           
+</a>   
+<img src="https://www.codewars.com/users/Adriendev/badges/small" alt="codewars banner" />
 
 
 
