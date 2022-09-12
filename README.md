@@ -4,41 +4,27 @@
 
 <div id"=presentation" algin="center">
 
-<p align="center"> After 5 years of experience as a Communication Manager, I found my vocation as a Web Developer.</p> 
+<p align="center"> After 5 years of experience as a Communication Manager, I found my vocation as a Web Developer and I am looking for a job.</p> 
 
-<h3>👨‍💻 My Technology stack:</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriendev&theme=radical)](https://github.com/Adriendev/github-readme-stats)
+👨‍💻 My Technology stack:
+JavaScript ES6 | HTML5 | CSS3 | ReactJs | NodeJs | ExpressJs | MongoDB | Mongoose 
 
+✨ My favs projects:
+- [Manga Print] - Last project of my bootcamp. A react application for following manga series releases date. 
+- [Manga Release API] - REST API for finding manga publisher's release date via web scraping.
+- [Sample Music Quizz] - First project of my coding career. A little game for finding the old songs behind some famous musics.
 
-
-</div>
-
-What I love: 
-
-- 
-- 
--
-
-My favs projects on Github: 
-
--
--
--
-
-How to reach me: 
+🚧 Actually working on: 
+- Rebuilding my first music quiz project
+- Learning Python                                
+                 
+📬 How to reach me:
+- <a href="https://www.linkedin.com/in/adrien-deveaux/">                 
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
+</a>                                                                                                                           
 
 
-<!--
-**Adriendev/Adriendev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Manga Print]: https://manga-print.netlify.app/
+[Manga Release API]: https://documenter.getpostman.com/view/21225621/UzBjs8Hf
+[Sample Music Quizz]: 
