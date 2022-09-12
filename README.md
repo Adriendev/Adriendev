@@ -7,7 +7,7 @@
 <p align="center"> After 5 years of experience as a Communication Manager, I found my vocation as a Web Developer and I am looking for a job.</p> 
 
 👨‍💻 My Technology stack:
-JavaScript ES6 | HTML5 | CSS3 | ReactJs | NodeJs | ExpressJs | MongoDB | Mongoose 
+- JavaScript ES6 | HTML5 | CSS3 | ReactJs | NodeJs | ExpressJs | MongoDB | Mongoose 
 
 ✨ My favs projects:
 - [Manga Print] - Last project of my bootcamp. A react application for following manga series releases date. 
@@ -19,6 +19,7 @@ JavaScript ES6 | HTML5 | CSS3 | ReactJs | NodeJs | ExpressJs | MongoDB | Mongoos
 - Learning Python                                
                  
 📬 How to reach me:
+- adrien.dvx@gmail.com
 - <a href="https://www.linkedin.com/in/adrien-deveaux/">                 
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
 </a>                                                                                                                           
@@ -27,4 +28,4 @@ JavaScript ES6 | HTML5 | CSS3 | ReactJs | NodeJs | ExpressJs | MongoDB | Mongoos
 
 [Manga Print]: https://manga-print.netlify.app/
 [Manga Release API]: https://documenter.getpostman.com/view/21225621/UzBjs8Hf
-[Sample Music Quizz]: 
+[Sample Music Quizz]: https://adriendev.github.io/Sampling-Music-Quizz/
