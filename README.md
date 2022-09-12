@@ -5,8 +5,12 @@
 <div id"=presentation" algin="center">
 
 <p align="center"> After 5 years of experience as a Communication Manager, I found my vocation as a Web Developer.</p> 
-                                                                                  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriendev&layout=compact)](https://github.com/Adriendev/github-readme-stats)
+
+<h3>👨‍💻 My Technology stack:</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriendev&layout=compact&theme=merko)](https://github.com/Adriendev/github-readme-stats)
+
+
+
 
 </div>
 
