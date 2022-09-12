@@ -7,7 +7,7 @@
 <p align="center"> After 5 years of experience as a Communication Manager, I found my vocation as a Web Developer.</p> 
 
 <h3>👨‍💻 My Technology stack:</h3>
-[![Adrien's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriendev&layout=compact&theme=calm)](https://github.com/Adriendev/github-readme-stats)
+[![Adrien's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriendev&layout=compact&theme=radical)](https://github.com/Adriendev/github-readme-stats)
 
 
 
