@@ -21,13 +21,14 @@
 📬 How to reach me:
 - adrien.dvx@gmail.com
 - and also:
-                 
+<div id="in">                 
 <a href="https://www.linkedin.com/in/adrien-deveaux/">                 
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
-</a> 
+</a>
+                                                                                                                              </div>                                                                                                                              <div id="codewars">
 <a href="https://www.codewars.com/users/Adriendev">                                   
 <img src="https://www.codewars.com/users/Adriendev/badges/small" alt="codewars banner" />                                                                                    </a>                                                                                      
-
+                                                                                      </div>
 
 
 [Manga Print]: https://manga-print.netlify.app/
