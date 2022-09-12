@@ -1,14 +1,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width=100"/>
 </div>
-### Hi there 👋
 
-About me: 
+<div id"=presentation" algin="center">
 
 Former Communication Manager, I am now a Junior Web Developer.
                                                                                   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriendev&layout=compact)](https://github.com/Adriendev/github-readme-stats)
 
+</div>
 
 What I love: 
 
