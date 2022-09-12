@@ -19,7 +19,8 @@
 - Learning Python                                
                  
 📬 How to reach me:
-adrien.dvx@gmail.com
+- adrien.dvx@gmail.com
+- and also:
 <a href="https://www.linkedin.com/in/adrien-deveaux/">                 
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
 </a>                                                                                                                           
