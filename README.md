@@ -9,7 +9,7 @@
 👨‍💻 My Technology stack:
 - JavaScript ES6 | HTML5 | CSS3 | ReactJs | NodeJs | ExpressJs | MongoDB | Mongoose 
 
-✨ My favs projects:
+✨ My projects:
 - [Manga Print] - Last project of my bootcamp. A react application for following manga series releases date. 
 - [Manga Release API] - REST API for finding manga publisher's release date via web scraping.
 - [Sample Music Quizz] - First project of my coding career. A little game for finding the old songs behind some famous musics.
