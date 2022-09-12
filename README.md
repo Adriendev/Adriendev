@@ -4,7 +4,7 @@
 
 <div id"=presentation" algin="center">
 
-Former Communication Manager, I am now a Junior Web Developer.
+<p align="center"> After 5 years of experience as a Communication Manager, I found my vocation as a Web Developer.</p> 
                                                                                   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriendev&layout=compact)](https://github.com/Adriendev/github-readme-stats)
 
