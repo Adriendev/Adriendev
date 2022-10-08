@@ -16,7 +16,7 @@
 
 🚧 Actually working on: 
 - Rebuilding my first music quiz project
-- Learning Python                                
+- Learning Typescript                                
                  
 📬 How to reach me:
 - adrien.dvx@gmail.com
