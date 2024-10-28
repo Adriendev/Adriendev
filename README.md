@@ -7,16 +7,10 @@
 <p align="center"> After 5 years of experience as a Communication Manager, I found my vocation as a Web Developer and I am looking for a job.</p> 
 
 👨‍💻 My Technology stack:
-- JavaScript ES6 | HTML5 | CSS3 | ReactJs | NodeJs | ExpressJs | MongoDB | Mongoose 
-
-✨ My projects:
-- [Manga Print] - Last project of my bootcamp. A react application for following manga series releases date. 
-- [Manga Release API] - REST API for finding manga publisher's release date via web scraping.
-- [Sample Music Quizz] - First project of my coding career. A little game for finding the old songs behind some famous musics.
+- JavaScript | Typescript | ReactJs | VueJs | NodeJs | FastifyJs | ExpressJs | MongoDB | Bigquery | RDS | Redis | MUI | CSS | Kibana | Zod | Mongoose
 
 🚧 Actually working on: 
-- Rebuilding my first music quiz project
-- Learning Typescript                                
+- Building and maintaining internal apps for Foxintelligence                           
                  
 📬 How to reach me:
 - adrien.dvx@gmail.com
@@ -25,12 +19,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
    </a>
   </div>                                                                                                                             
-- <div id="codewars">
-    <a href="https://www.codewars.com/users/Adriendev">                                   
-      <img src="https://www.codewars.com/users/Adriendev/badges/small" alt="codewars banner" />                                                                 </a>                                                                                      
-  </div>
-
-
-[Manga Print]: https://manga-print.netlify.app/
-[Manga Release API]: https://documenter.getpostman.com/view/21225621/UzBjs8Hf
-[Sample Music Quizz]: https://adriendev.github.io/Sampling-Music-Quizz/
